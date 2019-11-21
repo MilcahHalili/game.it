@@ -15,5 +15,3 @@ var chatRoomSchema = new Schema({
 });
 
 module.exports = mongoose.model('ChatRoom', chatRoomSchema);
-
-
