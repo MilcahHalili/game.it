@@ -40,4 +40,4 @@ Upon creating a profile, user information must be required.
 
 ### *Build On!*
 
-Please refer to our **[Trello] (https://trello.com/b/PXILni5g/gamr-app)** for suggestions on additional features.
+Please refer to our **[Trello](https://trello.com/b/PXILni5g/gamr-app)** for suggestions on additional features.
