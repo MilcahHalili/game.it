@@ -7,7 +7,7 @@
 
 Matching up schedules with friends to play games can be challenging. game.it allows you to organize your library of games and find friends whose gaming schedule matches yours.
 
-Refer to our **[pitch deck] (https://docs.google.com/presentation/d/1qFdi90fd_jwdA3fpyFWXa1wVl13V30wu9pCUJlc1QaA/edit#slide=id.p)** for more information.
+Refer to our **[pitch deck](https://docs.google.com/presentation/d/1qFdi90fd_jwdA3fpyFWXa1wVl13V30wu9pCUJlc1QaA/edit#slide=id.p)** for more information.
 
 ## Technologies Used
 
@@ -26,7 +26,7 @@ Refer to our **[pitch deck] (https://docs.google.com/presentation/d/1qFdi90fd_jw
 
 ## Getting Started
 
-Go to **[game.it] (https://game-it.herokuapp.com/).**
+Go to **[game.it](https://game-it.herokuapp.com/).**
 
 ## How to Use game.it
 
